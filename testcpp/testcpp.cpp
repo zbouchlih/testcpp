@@ -13,6 +13,7 @@ int main()
 
     cout << a << " + " << b << " = "  << somme  << endl;
 
+    //ajout de code
 
     cout << "adresse de a dans la mémoire : " << &a << endl;
     cout << "adresse de b dans la mémoire : " << &b << endl;

@@ -5,3 +5,5 @@ void echange(double& x, double& y)
     x = y;                //On remplace la valeur de 'x' par celle de 'y'
     y = temporaire;       //Et on utilise la valeur sauvegardée pour mettre l'ancienne valeur de 'x' dans 'y'
 }
+
+//
